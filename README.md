@@ -11,7 +11,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="./assets/terminal-intro.jpeg" alt="Terminal Introduction" width="650"/>
+  <img src="./assets/terminal-intro.svg" alt="Terminal Introduction" width="650"/>
 </div>
 
 <br/>
